@@ -1,3 +1,3 @@
-# Census_Income_BigData_Analysis
+# Census Income - Big Data Analysis
 
 Challenge to process data from the Census Income dataset
